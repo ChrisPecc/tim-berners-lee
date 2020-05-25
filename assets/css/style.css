@@ -8,8 +8,7 @@ main {
     width: 550px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
     color: grey;
 }
 
@@ -34,8 +33,8 @@ main {
 
 h1 {
     color: rgb(192, 1, 1);
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
 
 
@@ -48,6 +47,11 @@ p {
     width: 75px;
     padding-right: 10px;
 
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
 
 h3 {
@@ -92,5 +96,5 @@ li {
 
 strong {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
+    font-weight: bold;
 }
