@@ -6,7 +6,7 @@ main {
     width: 550px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: grey;
 }
 
@@ -61,4 +61,24 @@ span {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     border-radius: 10px;
+}
+
+i{
+    font-size: 3em;
+}
+
+.icons {
+    color: grey;
+}
+
+.sociallist {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
 }
